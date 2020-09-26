@@ -1,0 +1,38 @@
+h1 
+{
+	background-color: blue;
+	color: white;
+	font-family: Courier New;
+}
+
+.titre2
+{
+	background-color: black;
+	color: white;
+	font-family: verdana;
+}
+/*liens url*/
+.titre3
+{
+	background-color: green;
+	color: white;
+}
+
+#p1
+{
+	color : green;
+}
+.Menu
+{
+	background-color: green;
+	color: white;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.table
+{
+	background-color : black;
+	color: white;
+}
